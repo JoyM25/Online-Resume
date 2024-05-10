@@ -11,7 +11,7 @@
 
 ## Projects
 ### HR Analytics Dashboard with Power BI
-[Publication]
+[Dashboard]Attrition_information.pdf
 -	Developed an insightful analytics dashboard for the HR department.
 -	 Analysed attrition rates in correlation with factors such as job satisfaction, salary, and age.
 -	Implemented effective data visualization techniques to present information in a user-friendly manner.
