@@ -23,11 +23,12 @@
 -	Identified average prices per branch, informing tailored pricing strategies and deepening insights into regional consumer behavior.
 -	Analysed sales and revenue performance across product lines, genders, and payment methods, identifying key focus areas for improving sales.
 
-[Code]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/JoyM25/Online-Resume/blob/main/Untitled-checkpoint.ipynb))
+[Code](https://github.com/JoyM25/PYTHON-Code)
 ![Visulaization]()
 
 ## COURSES & CERTIFICATIONS
-### Python Course   ### MySQL                    
+### Python Course
+### MySQL                    
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
