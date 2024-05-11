@@ -1,15 +1,9 @@
 # Data Analyst
 
 #### Technical Skills: 
-                       ###- Python SQL Power BI 
-                       ###- Advanced Excel DATA MANIPULATION 
-                       ###- DATA HANDLING DATA VISUALIZATION
-
-## Education
-- B.Tech. - Civil | Hooghly Engineering And Technology College(_July 2023_) Grade- 8.34 CGPA								       		
-- class 12th(science), | Koutrong Bhadrakli Highschool (_December 2016_)	Percentage- 57% 			        		
-- class 10th, | Uttarpara Amarendra Vidyapeeth (_May 2014_) Percentage- 66%
-
+                       ###- Python | SQL | Power BI 
+                       ###- Advanced Excel | DATA MANIPULATION 
+                       ###- DATA HANDLING | DATA VISUALIZATION
 
 
 ## Projects
@@ -29,8 +23,16 @@
 [Code](https://github.com/JoyM25/PYTHON-Code)
 ![Visulaization]()
 
+
+## Education
+- B.Tech. - Civil | Hooghly Engineering And Technology College(_July 2023_) Grade- 8.34 CGPA								       		
+- class 12th(science), | Koutrong Bhadrakli Highschool (_December 2016_)	Percentage- 57% 			        		
+- class 10th, | Uttarpara Amarendra Vidyapeeth (_May 2014_) Percentage- 66%
+
 ## COURSES & CERTIFICATIONS
 ### Python Course
 ### MySQL                    
 
+## OTHER INTERESTS
+STOCK MARKET | FASHION | HIKING | MOTORSPORT | DESIGN
 
