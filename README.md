@@ -31,8 +31,9 @@
 
 ## COURSES & CERTIFICATIONS
 ### Python Course
+![CERTIFICATE](python_certificate_page-0001.jpg)
 ### MySQL                    
-
+![CERTIFICATE](SQL_certificate_page-0001.jpg)
 ## OTHER INTERESTS
 STOCK MARKET | FASHION | HIKING | MOTORSPORT | DESIGN
 
