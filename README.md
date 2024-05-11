@@ -1,9 +1,9 @@
 # Data Analyst
 
 #### Technical Skills: 
-                       ###- Python | SQL | Power BI 
-                       ###- Advanced Excel | DATA MANIPULATION 
-                       ###- DATA HANDLING | DATA VISUALIZATION
+                       - Python | SQL | Power BI 
+                       - Advanced Excel | DATA MANIPULATION 
+                       - DATA HANDLING | DATA VISUALIZATION
 
 
 ## Projects
