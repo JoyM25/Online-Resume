@@ -1,6 +1,8 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Power BI, Advance Excel, DATA MANIPULATION DATA HANDLING DATA VISUALIZATION
+#### Technical Skills: - Python -SQL -Power BI 
+                       - Advanced Excel -DATA MANIPULATION 
+                       - DATA HANDLING DATA VISUALIZATION
 
 ## Education
 - B.Tech. - Civil | Hooghly Engineering And Technology College(_July 2023_) Grade- 8.34 CGPA								       		
