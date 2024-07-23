@@ -21,7 +21,7 @@
 -	Analysed sales and revenue performance across product lines, genders, and payment methods, identifying key focus areas for improving sales.
 
 [Code](https://github.com/JoyM25/PYTHON-Code)
-![Visulaization](png-transparent-computer-icons-code-symbol-coding-miscellaneous-angle-text.png)
+![Visulaization]()
 
 
 ## Education
