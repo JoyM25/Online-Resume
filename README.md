@@ -1,4 +1,4 @@
-# Data Analyst
+# Analyst
 
 #### Technical Skills: 
 - Python | SQL | Power BI
@@ -21,7 +21,7 @@
 -	Analysed sales and revenue performance across product lines, genders, and payment methods, identifying key focus areas for improving sales.
 
 [Code](https://github.com/JoyM25/PYTHON-Code)
-![Visulaization]()
+![Visulaization](images.png)
 
 
 ## Education
